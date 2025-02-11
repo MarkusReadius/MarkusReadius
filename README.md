@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Markus
+# 👋 Hi, I'm Mark
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/markusreadius)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/markusreadius)
-
-I'm a passionate software developer who loves building innovative solutions and contributing to open source projects.
+I'm a passionate software developer with who loves building innovative solutions and contributing to open source projects.
 
 ## 🛠️ Technologies & Tools
 
@@ -22,23 +19,13 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/markusreadius/project1)
-Brief description of your first featured project
-
-### [Project Name 2](https://github.com/markusreadius/project2)
-Brief description of your second featured project
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://your-blog-url.com/post1)
-- [Blog Post 2](https://your-blog-url.com/post2)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/markusreadius)
-- 🐦 [Twitter](https://twitter.com/markusreadius)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mark-a-read)
+- 📧 [Email](mailto:read.a.mark@gmail.com)
 
 ## 🌟 Support My Work
 
