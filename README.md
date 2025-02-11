@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mark
 
-I'm a passionate software developer with who loves building innovative solutions and contributing to open source projects.
+I'm a passionate software developer who loves building innovative solutions and contributing to open source projects.
 
 ## 🛠️ Technologies & Tools
 
