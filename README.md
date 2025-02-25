@@ -17,11 +17,6 @@ I'm a passionate self-taught software developer who loves building innovative so
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markusreadius&layout=compact&theme=radical)](https://github.com/markusreadius)
 
-## 🚀 Featured Projects
-
-
-## 📝 Latest Blog Posts
-
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mark-a-read)
