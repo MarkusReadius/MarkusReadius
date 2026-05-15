@@ -6,11 +6,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mark-a-read)
-- 📧 [Email](mailto:read.a.mark@gmail.com)
-
 ## 🌟 Support My Work
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/markusreadius)
