@@ -25,6 +25,6 @@ Security Engineer @ ArangoDB
 
 <a href="https://www.buymeacoffee.com/markusreadius"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-support-yellow?style=flat&logo=buymeacoffee&logoColor=white" alt="buy me a coffee" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=markusreadius&style=flat&color=555" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=markusreadius&style=flat&color=555555" alt="profile views" />
 
 </div>
