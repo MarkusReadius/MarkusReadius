@@ -1,10 +1,7 @@
-```console
-$ whoami
-mark read
-
-$ cat /etc/motd
-Security Engineer @ ArangoDB
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&multiline=true&vCenter=true&width=460&height=140&repeat=false&color=c9d1d9&background=00000000&lines=%24+whoami;mark+read;%24+cat+%2Fetc%2Fmotd;Security+Engineer+%40+ArangoDB" />
+  <img alt="$ whoami: mark read. $ cat /etc/motd: Security Engineer @ ArangoDB" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&multiline=true&vCenter=true&width=460&height=140&repeat=false&color=24292f&background=00000000&lines=%24+whoami;mark+read;%24+cat+%2Fetc%2Fmotd;Security+Engineer+%40+ArangoDB" />
+</picture>
 
 <div align="center">
 
@@ -24,9 +21,9 @@ Security Engineer @ ArangoDB
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/pacman-contribution-graph.svg" />
 </picture>
 
 <br/><br/>
