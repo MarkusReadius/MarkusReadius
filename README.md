@@ -9,6 +9,14 @@ Security Engineer @ ArangoDB
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/profile-green-animate.svg" />
+  <img width="100%" alt="3D contribution calendar" src="https://raw.githubusercontent.com/MarkusReadius/MarkusReadius/output/profile-green-animate.svg" />
+</picture>
+
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarkusReadius&theme=tokyo-night&hide_border=true&area=true" />
   <img width="100%" alt="contribution activity graph for MarkusReadius" src="https://github-readme-activity-graph.vercel.app/graph?username=MarkusReadius&hide_border=true&area=true&bg_color=ffffff&color=404040&line=2c5364&point=24292f&area_color=2c5364" />
 </picture>
