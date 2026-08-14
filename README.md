@@ -3,8 +3,6 @@
   <img alt="$ whoami: mark read. $ cat /etc/motd: Security Engineer @ ArangoDB" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&multiline=true&vCenter=true&width=460&height=140&color=24292f&background=00000000&lines=%24+whoami;mark+read;%24+cat+%2Fetc%2Fmotd;Security+Engineer+%40+ArangoDB" />
 </picture>
 
-I'm accountable for what ArangoDB ships.
-
 <div align="center">
 
 <picture>
