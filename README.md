@@ -7,8 +7,6 @@ I own security at ArangoDB. Vulnerability management, supply chain, and build pi
 
 Most of what I ship is CI plumbing. Container and dependency scanning wired into the gates that actually block, waiver policy with real expiry dates instead of permanent ignores, SBOM evidence on the artifacts we release, and CVE remediation across the fleet.
 
-Public work: [arangodb/arangodb](https://github.com/arangodb/arangodb), [kube-arangodb](https://github.com/arangodb/kube-arangodb), [go-driver](https://github.com/arangodb/go-driver), [oskar](https://github.com/arangodb/oskar).
-
 <div align="center">
 
 <picture>
