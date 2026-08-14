@@ -3,13 +3,11 @@
   <img alt="$ whoami: mark read. $ cat /etc/motd: Security Engineer @ ArangoDB" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&multiline=true&vCenter=true&width=460&height=140&repeat=false&color=24292f&background=00000000&lines=%24+whoami;mark+read;%24+cat+%2Fetc%2Fmotd;Security+Engineer+%40+ArangoDB" />
 </picture>
 
-I own security at ArangoDB. Vulnerability management, supply chain and build pipeline hardening, and access governance across the org.
+I own security at ArangoDB. Vulnerability management, supply chain, and build pipeline hardening.
 
-Off the clock I run a homelab that got out of hand, and I document the whole thing.
+Most of what I ship is CI plumbing. Container and dependency scanning wired into the gates that actually block, waiver policy with real expiry dates instead of permanent ignores, SBOM evidence on the artifacts we release, and CVE remediation across the fleet.
 
-### [ReadIsRight-Homelab](https://github.com/MarkusReadius/ReadIsRight-Homelab)
-
-45 Docker Compose stacks behind Traefik and Authentik. Terraform for Proxmox, Civo and Cloudflare. Ansible roles, Packer images, Vagrant boxes, Kubernetes manifests, and Kestra workflows. Copy paste freely.
+Public work: [arangodb/arangodb](https://github.com/arangodb/arangodb), [kube-arangodb](https://github.com/arangodb/kube-arangodb), [go-driver](https://github.com/arangodb/go-driver), [oskar](https://github.com/arangodb/oskar).
 
 <div align="center">
 
